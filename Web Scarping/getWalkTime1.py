@@ -47,7 +47,7 @@ destinations = ["Stanford Shopping Center, Stanford, CA, 94305",
                 "Green Library, Stanford, CA, 94305"]
 
 # 你的Google API密钥
-api_key = "AIzaSyAg1UseWAyxs4GeoCR1nixTcnIs80cfVA4"
+api_key = "xxx" # secret
 
 # 存储结果
 results = []

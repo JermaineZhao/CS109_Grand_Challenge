@@ -1,0 +1,57 @@
+Hi, Aidna!
+
+Welcome to Stanford CS Love!
+
+Based on your personal preferences and the dynamics of Stanford CS Classes, we've crafted this unique CS Love Report just for you.
+
+The CS courses you'll be taking next semester are:  
+CS 197C, which has 'LOW' probability of finding a love; 
+
+
+Based on your data, here are the courses that are most likely to help you find a partner:
+CS 107
+CS 145
+CS 147
+CS 148
+CS 149
+CS 157
+CS 205L
+CS 221
+CS 224N
+CS 224W
+CS 22A
+CS 231N
+CS 238
+CS 246
+
+Based on your data, here are the courses that are least likely to help you find a partner:
+CS 80E
+CS 100ACE
+CS 105
+CS 106AX
+CS 108
+CS 109ACE
+CS 111ACE
+CS 190
+CS 197C
+CS 198B
+CS 206
+CS 210A
+CS 241
+CS 270
+CS 273C
+CS 277
+CS 329M
+CS 348C
+CS 349F
+CS 349H
+CS 352B
+CS 362
+CS 366
+CS 369O
+CS 372
+CS 45
+CS 528
+CSRE 298
+
+May your college days be full of joy and serendipitous encounters. 😉!

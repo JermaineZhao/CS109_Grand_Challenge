@@ -1,0 +1,79 @@
+Hi, Alex Wang!
+
+Welcome to Stanford CS Love!
+
+Based on your personal preferences and the dynamics of Stanford CS Classes, we've crafted this unique CS Love Report just for you.
+
+The CS courses you'll be taking next semester are:  
+CS 161, which has 'MEDIUM' probability of finding a love; 
+CS 224N, which has 'HIGH' probability of finding a love; 
+
+
+Based on your data, here are the courses that are most likely to help you find a partner:
+CS 106A
+CS 106B
+CS 107
+CS 109
+CS 124
+CS 144
+CS 145
+CS 147
+CS 148
+CS 149
+CS 157
+CS 205L
+CS 221
+CS 224N
+CS 224W
+CS 22A
+CS 231N
+CS 238
+CS 246
+CS 255
+CS 309A
+
+Based on your data, here are the courses that are least likely to help you find a partner:
+CS 100ACE
+CS 103ACE
+CS 105
+CS 106AX
+CS 108
+CS 109ACE
+CS 111ACE
+CS 112
+CS 193Q
+CS 198B
+CS 206
+CS 210A
+CS 212
+CS 224R
+CS 225A
+CS 229M
+CS 233
+CS 237A
+CS 237B
+CS 240LX
+CS 241
+CS 243
+CS 274
+CS 277
+CS 281
+CS 295
+CS 29N
+CS 323
+CS 327A
+CS 348C
+CS 348E
+CS 348N
+CS 349F
+CS 352B
+CS 362
+CS 366
+CS 369O
+CS 372
+CS 375
+CS 432
+CS 528
+CSRE 298
+
+May your college days be full of joy and serendipitous encounters. 😉!

@@ -1,0 +1,57 @@
+Hi, Jermaine!
+
+Welcome to Stanford CS Love!
+
+Based on your personal preferences and the dynamics of Stanford CS Classes, we've crafted this unique CS Love Report just for you.
+
+The CS courses you'll be taking next semester are:  
+CS 231N, which has 'MEDIUM' probability of finding a love; 
+CS 224N, which has 'MEDIUM' probability of finding a love; 
+
+
+Based on your data, here are the courses that are most likely to help you find a partner:
+CS 106A
+CS 106B
+CS 109
+CS 111
+CS 124
+CS 155
+CS 173A
+CS 224U
+CS 229
+CS 236
+CS 247G
+CS 278
+CS 355
+CS 522
+
+Based on your data, here are the courses that are least likely to help you find a partner:
+CS 103ACE
+CS 106E
+CS 106M
+CS 106S
+CS 137A
+CS 177
+CS 198B
+CS 21SI
+CS 235
+CS 240LX
+CS 241
+CS 247B
+CS 247S
+CS 256
+CS 257
+CS 293
+CS 325B
+CS 329M
+CS 329X
+CS 353
+CS 361
+CS 366
+CS 377G
+CS 384
+CS 428A
+CS 44N
+CS 528
+
+May your college days be full of joy and serendipitous encounters. 😉!

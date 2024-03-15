@@ -1,0 +1,42 @@
+1. Bishop Auditorium
+2. Li Ka Shing Center
+3. McMurtry Art Building Oshman
+4. 260
+5. 530
+6. 300
+7. 60
+8. Thornton
+9. LAW school
+10. Alway Building
+11. Gilbert Biological Science
+12. Mitchell Earth Sciences
+13. 120
+14. Gates
+15. 320
+16. 200
+17. Departmental Room
+18. Location not found
+19. Packrd101
+20. Remote
+21. STLC
+22. 160
+23. 420
+24. 370
+25. Skilling Auditorium
+26. 380
+27. Hewlett Teaching Center
+28. McCullough
+29. Littlefield
+30. Encina West
+31. Huang Engineering Center
+32. School of Medicine
+33. Shriram
+34. NVIDIA Auditorium
+35. Y2E2
+36. Lathrop
+37. Econ Landau Economics Building
+38. Cemex Auditorium
+39. Turing Auditorium
+40. GSB
+41. Knoll
+42. Braun

@@ -1,0 +1,78 @@
+Hi, Sujin Lyu!
+
+Welcome to Stanford CS Love!
+
+Based on your personal preferences and the dynamics of Stanford CS Classes, we've crafted this unique CS Love Report just for you.
+
+The CS courses you'll be taking next semester are:  
+CS 197, which has 'MEDIUM' probability of finding a love; 
+
+
+Based on your data, here are the courses that are most likely to help you find a partner:
+CS 106AX
+CS 111
+CS 131
+CS 142
+CS 143
+CS 155
+CS 161
+CS 210A
+CS 223A
+CS 224U
+CS 224V
+CS 228
+CS 229
+CS 236
+CS 240
+CS 242
+CS 278
+CS 330
+CS 355
+CS 356
+CS 448B
+
+Based on your data, here are the courses that are least likely to help you find a partner:
+CS 103ACE
+CS 106E
+CS 106M
+CS 106S
+CS 109ACE
+CS 111ACE
+CS 137A
+CS 140E
+CS 154
+CS 177
+CS 198B
+CS 21SI
+CS 229B
+CS 233
+CS 237B
+CS 240LX
+CS 241
+CS 247B
+CS 247S
+CS 248A
+CS 254B
+CS 256
+CS 257
+CS 263
+CS 265
+CS 288
+CS 31N
+CS 329H
+CS 329T
+CS 329X
+CS 342
+CS 349D
+CS 353
+CS 361
+CS 366
+CS 369O
+CS 377E
+CS 384
+CS 428A
+CS 44N
+CS 51
+CS 528
+
+May your college days be full of joy and serendipitous encounters. 😉!

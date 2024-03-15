@@ -1,0 +1,11 @@
+24 mins,13 mins,10 mins,7 mins,7 mins
+25 mins,14 mins,10 mins,7 mins,6 mins
+29 mins,11 mins,5 mins,11 mins,4 mins
+28 mins,12 mins,6 mins,10 mins,5 mins
+17 mins,18 mins,20 mins,4 mins,17 mins
+24 mins,23 mins,16 mins,9 mins,10 mins
+33 mins,9 mins,2 mins,16 mins,6 mins
+28 mins,22 mins,15 mins,14 mins,9 mins
+9 mins,11 mins,5 mins,19 mins,9 mins
+26 mins,23 mins,16 mins,10 mins,10 mins
+30 mins,18 mins,11 mins,15 mins,4 mins

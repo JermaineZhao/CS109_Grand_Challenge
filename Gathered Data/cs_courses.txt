@@ -1,0 +1,196 @@
+CS 7:: Personal Finance for Engineers
+CS 11SI:: How to Make VR: Introduction to Virtual Reality Design and Development
+CS 12SI:: Spatial Computing Workshop
+CS 21SI:: AI for Social Good
+CS 22A:: The Social & Economic Impact of Artificial Intelligence (INTLPOL 200, SYMSYS 122)
+CS 24:: Minds and Machines (LINGUIST 35, PHIL 99, PSYCH 35, SYMSYS 1, SYMSYS 200)
+CS 25:: Transformers United V3
+CS 29N:: Computational Decision Making
+CS 40:: Cloud Infrastructure and Scalable Application Deployment
+CS 51:: CS + Social Good Studio: Designing Social Impact Projects
+CS 52:: CS + Social Good Studio: Implementing Social Good Projects
+CS 53N:: How Can Generative AI Help Us Learn?
+CS 80E:: Dissecting The Modern Computer
+CS 83N:: Playback Theater
+CS 100ACE:: Problem-solving Lab for CS106A
+CS 100BACE:: Problem-solving Lab for CS106B
+CS 103:: Mathematical Foundations of Computing
+CS 103ACE:: Mathematical Problem-solving Strategies
+CS 105:: Introduction to Computers
+CS 106A:: Programming Methodology
+CS 106AX:: Programming Methodologies in JavaScript and Python (Accelerated)
+CS 106B:: Programming Abstractions
+CS 106E:: Exploration of Computing
+CS 106L:: Standard C++ Programming Laboratory
+CS 106M:: Enrichment Adventures in Programming Abstractions
+CS 106S:: Coding for Social Good
+CS 107:: Computer Organization and Systems
+CS 107E:: Computer Systems from the Ground Up
+CS 108:: Object-Oriented Systems Design
+CS 109:: Introduction to Probability for Computer Scientists
+CS 109ACE:: Problem-solving Lab for CS109
+CS 111:: Operating Systems Principles
+CS 111ACE:: Problem Solving Lab for CS111
+CS 112:: Operating systems kernel implementation project
+CS 123:: A Hands-On Introduction to Building AI-Enabled Robots
+CS 124:: From Languages to Information (LINGUIST 180, LINGUIST 280)
+CS 131:: Computer Vision: Foundations and Applications
+CS 137A:: Principles of Robot Autonomy I (AA 174A, EE 160A)
+CS 139:: Human-Centered AI
+CS 140E:: Operating systems design and implementation
+CS 143:: Compilers
+CS 144:: Introduction to Computer Networking
+CS 145:: Data Management and Data Systems
+CS 147:: Introduction to Human-Computer Interaction Design
+CS 147L:: Cross-platform Mobile App Development
+CS 149:: Parallel Computing
+CS 151:: Logic Programming
+CS 152:: Trust and Safety (COMM 122, INTLPOL 267)
+CS 153:: Applied Security at Scale
+CS 154:: Introduction to the Theory of Computation
+CS 155:: Computer and Network Security
+CS 157:: Computational Logic
+CS 161:: Design and Analysis of Algorithms
+CS 161ACE:: Problem-Solving Lab for CS161
+CS 170:: Stanford Laptop Orchestra: Composition, Coding, and Performance (MUSIC 128)
+CS 173A:: Foundations of Computational Human Genomics (BIOMEDIN 173A, DBIO 173A)
+CS 177:: Human Centered Product Management
+CS 181:: Computers, Ethics, and Public Policy
+CS 181W:: Computers, Ethics, and Public Policy (WIM)
+CS 185:: Coding with LLM Assistants
+CS 190:: Software Design Studio
+CS 191:: Senior Project
+CS 191W:: Writing Intensive Senior Research Project
+CS 193Q:: Introduction to Python Programming
+CS 194:: Software Project
+CS 194H:: User Interface Design Project
+CS 194W:: Software Project (WIM)
+CS 195:: Supervised Undergraduate Research
+CS 197:: Computer Science Research
+CS 197C:: Computer Science Research: CURIS Internship Onramp
+CS 198:: Teaching Computer Science
+CS 198B:: Additional Topics in Teaching Computer Science
+CS 199P:: Independent Work
+CS 202:: Law for Computer Science Professionals
+CS 205L:: Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS 206:: Exploring Computational Journalism (COMM 281)
+CS 210A:: Software Project Experience with Corporate Partners
+CS 210B:: Software Project Experience with Corporate Partners
+CS 212:: Operating Systems and Systems Programming
+CS 221:: Artificial Intelligence: Principles and Techniques
+CS 223A:: Introduction to Robotics (ME 320)
+CS 224G:: Apps With LLMs Inside
+CS 224N:: Natural Language Processing with Deep Learning (LINGUIST 284, SYMSYS 195N)
+CS 224R:: Deep Reinforcement Learning
+CS 224S:: Spoken Language Processing (LINGUIST 285)
+CS 224V:: Conversational Virtual Assistants with Deep Learning
+CS 224W:: Machine Learning with Graphs
+CS 225:: Machine Learning for Discrete Optimization (MS&E 236)
+CS 225A:: Experimental Robotics
+CS 227A:: Robot Perception: Hardware, Algorithm, and Application (EE 227)
+CS 228:: Probabilistic Graphical Models: Principles and Techniques
+CS 229:: Machine Learning (STATS 229)
+CS 229B:: Machine Learning for Sequence Modeling (STATS 232)
+CS 229M:: Machine Learning Theory (STATS 214)
+CS 229S:: Systems for Machine Learning
+CS 231A:: Computer Vision: From 3D Perception to 3D Reconstruction and Beyond
+CS 231N:: Deep Learning for Computer Vision
+CS 233:: Geometric and Topological Data Analysis (CME 251)
+CS 234:: Reinforcement Learning
+CS 236:: Deep Generative Models
+CS 237A:: Principles of Robot Autonomy I (AA 274A, EE 260A)
+CS 237B:: Principles of Robot Autonomy II (AA 174B, AA 274B, EE 260B)
+CS 238:: Decision Making under Uncertainty (AA 228)
+CS 239:: Advanced Topics in Sequential Decision Making (AA 229)
+CS 240:: Advanced Topics in Operating Systems
+CS 240LX:: Advanced Systems Laboratory, Accelerated
+CS 241:: Embedded Systems Workshop (EE 285)
+CS 242:: Programming Languages
+CS 244:: Advanced Topics in Networking
+CS 244B:: Distributed Systems
+CS 246:: Mining Massive Data Sets
+CS 247A:: Design for Artificial Intelligence (SYMSYS 195A)
+CS 247B:: Design for Behavior Change (SYMSYS 195B)
+CS 247G:: Design for Play (SYMSYS 195G)
+CS 247S:: Service Design (SYMSYS 195S)
+CS 248A:: Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS 248B:: Fundamentals of Computer Graphics: Animation and Simulation
+CS 251:: Cryptocurrencies and blockchain technologies
+CS 254:: Computational Complexity
+CS 254B:: Computational Complexity II
+CS 255:: Introduction to Cryptography
+CS 256:: Algorithmic Fairness
+CS 257:: Introduction to Automated Reasoning
+CS 259Q:: Quantum Computing
+CS 261:: Optimization and Algorithmic Paradigms
+CS 263:: Counting and Sampling
+CS 269I:: Incentives in Computer Science (MS&E 206)
+CS 270:: Modeling Biomedical Systems (BIOMEDIN 210)
+CS 272:: Introduction to Biomedical Data Science Research Methodology (BIOE 212, BIOMEDIN 212, GENE 212)
+CS 273B:: Deep Learning in Genomics and Biomedicine (BIODS 237, BIOMEDIN 273B, GENE 236)
+CS 273C:: Cloud Computing for Biology and Healthcare (BIOMEDIN 222, GENE 222)
+CS 274:: Representations and Algorithms for Computational Molecular Biology (BIOE 214, BIOMEDIN 214, GENE 214)
+CS 275:: Translational Bioinformatics (BIOE 217, BIOMEDIN 217, GENE 217)
+CS 275A:: Symbolic Musical Information (MUSIC 253)
+CS 275B:: Computational Music Analysis (MUSIC 254)
+CS 278:: Social Computing (SOC 174, SOC 274)
+CS 279:: Computational Biology: Structure and Organization of Biomolecules and Cells (BIOE 279, BIOMEDIN 279, BIOPHYS 279, CME 279)
+CS 281:: Ethics of Artificial Intelligence
+CS 288:: Applied Causal Inference with Machine Learning and AI (MS&E 228)
+CS 293:: Empowering Educators via Language Technology (EDUC 473)
+CS 295:: Software Engineering
+CS 298:: Seminar on Teaching Introductory Computer Science (EDUC 298)
+CS 300:: Departmental Lecture Series
+CS 309A:: Cloud Computing Seminar
+CS 324H:: History of Natural Language Processing
+CS 325B:: Data for Sustainable Development (EARTHSYS 162, EARTHSYS 262)
+CS 326:: Topics in Advanced Robotic Manipulation
+CS 328:: Foundations of Causal Machine Learning
+CS 329H:: Machine Learning from Human Preferences
+CS 329M:: Machine Programming
+CS 329R:: Race and Natural Language Processing (LINGUIST 281A, PSYCH 257A)
+CS 329T:: Trustworthy Machine Learning
+CS 330:: Deep Multi-task and Meta Learning
+CS 337:: AI-Assisted Care (MED 277)
+CS 339R:: Collaborative Robotics (ME 326)
+CS 340R:: Rusty Systems
+CS 342:: Building for Digital Health (MED 253)
+CS 343D:: Domain-Specific Programming Models and Compilers
+CS 343S:: Domain-Specific Language Design Studio
+CS 347:: Human-Computer Interaction: Foundations and Frontiers
+CS 348C:: Computer Graphics: Animation and Simulation
+CS 348I:: Computer Graphics in the Era of AI
+CS 349D:: Cloud Computing Technology
+CS 349H:: Software Techniques for Emerging Hardware Platforms (EE 292Y)
+CS 352B:: Blockchain Governance
+CS 353:: Seminar on Logic & Formal Philosophy (PHIL 391)
+CS 355:: Advanced Topics in Cryptography
+CS 356:: Topics in Computer and Network Security
+CS 360:: Simplicity and Complexity in Economic Theory (ECON 284)
+CS 361:: Engineering Design Optimization (AA 222)
+CS 366:: Computational Social Choice (MS&E 336)
+CS 372:: Artificial Intelligence for Precision Medicine and Psychiatric Disorders
+CS 375:: Large-Scale Neural Network Modeling for Neuroscience (PSYCH 249)
+CS 377G:: Designing Serious Games
+CS 377Q:: Designing for Accessibility (ME 214)
+CS 377U:: Understanding Users
+CS 390A:: Curricular Practical Training
+CS 390B:: Curricular Practical Training
+CS 390C:: Curricular Practical Training
+CS 390D:: Part-time Curricular Practical Training
+CS 399P:: Independent Project
+CS 422:: Interactive and Embodied Learning (EDUC 234A)
+CS 432:: Computer Vision for Education and Social Science Research (EDUC 463)
+CS 448B:: Data Visualization (EDUC 458, SYMSYS 195V)
+CS 448I:: Computational Imaging (EE 367)
+CS 470:: Music and AI (MUSIC 356)
+CS 476A:: Music, Computing, Design: The Art of Design (MUSIC 256A)
+CS 498C:: Introduction to CSCL: Computer-Supported Collaborative Learning (EDUC 315A)
+CS 498D:: Design for Learning: Generative AI for Collaborative Learning (DESIGN 292, EDUC 449)
+CS 499P:: Advanced Reading and Research
+CS 522:: Seminar in Artificial Intelligence in Healthcare
+CS 528:: Machine Learning Systems Seminar
+CS 529:: Robotics and Autonomous Systems Seminar (AA 289)
+CS 547:: Human-Computer Interaction Seminar
+CS 802:: TGR Dissertation
+CSRE 298:: Detecting Discrimination with Data (MS&E 298)
